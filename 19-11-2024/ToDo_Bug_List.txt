@@ -9,3 +9,4 @@ To Do List bugs:
     7. Completed tasks shouldn't be editable
     8. Clear button should have "Clear Completed" to be more "User Friendly"
     9. Button's "active" text should start with a capital letter
+    10. Text "Double-click to edit a toodo" has a mistake in the word "toodo"
