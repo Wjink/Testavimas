@@ -1,0 +1,11 @@
+To Do List bugs:
+    1. Task count starts from 0
+        1.1. Count number can be less than 0 (-1) when ALL tasks are marked
+    2. The button near the search bar (which suppose to mark and remove marks from all the tasks) is removing marks only after two clicks instead of one
+    3. Tasks are marked only by clicking on "check" circle. (Should be checked when clicking on task text)
+    4. Editing long messages is not comfortable. The text shouldn't be compressed into 1 line
+    5. If there are more than 1 task, text "x item left" should change into "x items left" because of plural
+    6. Task text doesn't show multiple spaces, they appear only in edit mode  
+    7. Completed tasks shouldn't be editable
+    8. Clear button should have "Clear Completed" to be more "User Friendly"
+    9. Button's "active" text should start with a capital letter
